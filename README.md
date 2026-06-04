@@ -47,9 +47,13 @@ Artificial Intelligence • Web Development • Database Design • Problem Solv
 
 ## 📊 GitHub Stats
 
-![Himath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HimathKc&show_icons=true&theme=github_dark)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=HimathKc&show_icons=true&theme=github_dark&hide_border=true" alt="Himath's GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HimathKc&layout=compact&theme=github_dark)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimathKc&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
