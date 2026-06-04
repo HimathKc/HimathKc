@@ -1,4 +1,4 @@
-# Hi there, I'm Himath Karindra 👋
+# Hi there, I'm Himath Chandrasena 👋
 
 **Computer Science + AI Student | Python & C++ Learner | Flask Developer**
 
