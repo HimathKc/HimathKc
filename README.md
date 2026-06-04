@@ -10,9 +10,9 @@ I enjoy creating beginner-friendly apps, learning AI fundamentals, and turning i
 
 ## 🚀 What I'm Working On
 
-- 🌱 **Study Bloom** — A Flask + MySQL study management app with a timer, progress tracking, charts, and a mobile-friendly UI.
+- 🌱 **[Study Bloom](https://github.com/HimathKc/study-bloom)** — A Flask + MySQL study management app with a timer, progress tracking, charts, and a mobile-friendly UI.
 - 📚 **Smart Library Management System** — A C++ and SQL coursework project for book reservations and fine tracking.
-- 💰 **Loan Repayment Calculator** — A C++ project that calculates repayment schedules and loan details.
+- 💰 **[Loan Repayment Calculator](https://github.com/HimathKc/Loan-Repayment-Calculator)** — A C++ project that calculates repayment schedules and loan details.
 
 ---
 
@@ -37,18 +37,28 @@ I enjoy creating beginner-friendly apps, learning AI fundamentals, and turning i
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### Currently Learning
+---
+
+## 📚 Currently Learning
 
 Artificial Intelligence • Web Development • Database Design • Problem Solving
 
 ---
 
+## 📊 GitHub Stats
+
+![Himath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HimathKc&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HimathKc&layout=compact&theme=github_dark)
+
+---
+
 ## 📌 Goals
 
-- Build better full-stack projects
-- Improve my coding logic
-- Learn AI and machine learning step by step
-- Create projects that are useful in real life
+- Build and publish more real-world beginner-friendly projects using Flask, MySQL, and C++.
+- Improve my problem-solving skills and become stronger in AI, backend development, and database design.
+- Learn more about artificial intelligence and apply AI concepts in practical projects.
+- Contribute to open-source projects and keep growing my GitHub portfolio step by step.
 
 ---
 
