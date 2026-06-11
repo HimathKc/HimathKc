@@ -11,7 +11,7 @@ I enjoy creating beginner-friendly apps, learning AI fundamentals, contributing 
 ## 🚀 What I'm Working On
 
 * 🌱 **[Study Bloom](https://github.com/HimathKc/study-bloom)** — A Flask + MySQL study management app with a timer, progress tracking, charts, planner features, admin tools, and a mobile-friendly UI.
-* 📚 **Smart Library Management System** — A C++ and SQL coursework project for book reservations, borrowing records, and fine tracking.
+- 📚 **[Smart Library Management System](https://github.com/HimathKc/Smart-Library-Management-System)** — A Flask + MySQL library management system for book reservations, borrowing records, and fine tracking.
 * 💰 **[Loan Repayment Calculator](https://github.com/HimathKc/Loan-Repayment-Calculator)** — A C++ project that calculates repayment schedules and loan details.
 * 🤝 **Open Source Contributions** — Practicing real-world GitHub workflows through small fixes, beginner-friendly issues, and pull requests.
 
