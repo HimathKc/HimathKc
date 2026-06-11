@@ -1,18 +1,20 @@
+```md
 # Hi there, I'm Himath Chandrasena 👋
 
 **Computer Science + AI Student | Python & C++ Learner | Flask Developer**
 
 I'm a Computer Science + AI student from Sri Lanka, currently building small but useful projects while improving my programming, database, and web development skills.
 
-I enjoy creating beginner-friendly apps, learning AI fundamentals, and turning ideas into working projects.
+I enjoy creating beginner-friendly apps, learning AI fundamentals, contributing to open source, and turning ideas into working projects.
 
 ---
 
 ## 🚀 What I'm Working On
 
-- 🌱 **[Study Bloom](https://github.com/HimathKc/study-bloom)** — A Flask + MySQL study management app with a timer, progress tracking, charts, and a mobile-friendly UI.
-- 📚 **Smart Library Management System** — A C++ and SQL coursework project for book reservations and fine tracking.
+- 🌱 **[Study Bloom](https://github.com/HimathKc/study-bloom)** — A Flask + MySQL study management app with a timer, progress tracking, charts, planner features, admin tools, and a mobile-friendly UI.
+- 📚 **Smart Library Management System** — A C++ and SQL coursework project for book reservations, borrowing records, and fine tracking.
 - 💰 **[Loan Repayment Calculator](https://github.com/HimathKc/Loan-Repayment-Calculator)** — A C++ project that calculates repayment schedules and loan details.
+- 🤝 **Open Source Contributions** — Practicing real-world GitHub workflows through small fixes, beginner-friendly issues, and pull requests.
 
 ---
 
@@ -41,7 +43,21 @@ I enjoy creating beginner-friendly apps, learning AI fundamentals, and turning i
 
 ## 📚 Currently Learning
 
-Artificial Intelligence • Web Development • Database Design • Problem Solving
+- Artificial Intelligence fundamentals
+- Web development with Flask
+- Database design with MySQL
+- C++ programming and problem solving
+- Git, GitHub, and open-source workflows
+
+---
+
+## 📊 GitHub Stats
+
+![Himath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HimathKc&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HimathKc&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=HimathKc&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -58,3 +74,4 @@ Artificial Intelligence • Web Development • Database Design • Problem Solv
 
 - GitHub: [HimathKc](https://github.com/HimathKc)
 - Email: himath.chandrasena@gmail.com
+```
