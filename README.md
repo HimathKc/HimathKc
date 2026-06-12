@@ -50,15 +50,6 @@ I enjoy creating beginner-friendly apps, learning AI fundamentals, contributing 
 
 ---
 
-## 📊 GitHub Stats
-
-![Himath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HimathKc\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HimathKc\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=HimathKc\&theme=tokyonight\&hide_border=true)
-
----
 
 ## 📌 Goals
 
